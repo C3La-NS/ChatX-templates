@@ -1,0 +1,26 @@
+/*
+###################################################################
+               Customize color scheme of your ChatX app
+               in this file.
+               — STYLE: CHATX DEFAULT BLUE —
+               # Author: C3La-NS
+               # More ChatX templates: https://xlns.ru/chatx
+###################################################################
+*/
+
+:root {
+  --chx-primary-color: #f9fafb; /* dominant color */
+  --chx-secondary-color: #87bfef; /* header, bottom buttons, authentication buttons, user nicknames, borders */
+  --chx-third-color: #fff; /* buttons, even lists */
+  --chx-forth-color: rgba(72, 72, 72, 0.95); /* pop-ups */
+  --chx-fifth-color: #d5dbe1; /* borders */
+  --chx-sixth-color: #ccc; /* pop-up texts */
+  --chx-seventh-color: #5896cb; /* reply button, history links, general links */
+  --chx-eighth-color: #717c87; /* even text lists, helper texts, time-ago */
+  --chx-nineth-color: #717c87; /* odd text lists */
+  --chx-tenth-color: rgba(255, 187, 187, 0.95); /* errors */
+  --chx-eleventh-color: #bb5a5a; /* error texts */
+  --chx-twelveth-color: #51718c; /* input placeholders */
+  --chx-thirteenth-color: #e6f3ff; /* my message */
+  
+}
