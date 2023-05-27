@@ -9,7 +9,7 @@
 */
 
 :root {
-  --chx-1-color: #f3f7ff; /* dominant color */
+  --chx-1-color: #f3fffc; /* dominant color */
   --chx-2-color: #99cebd; /* header, bottom buttons, authentication buttons, user nicknames, borders */
   --chx-2-1-color: var(--chx-6-color);
   --chx-3-color: #fff; /* buttons, even lists */
